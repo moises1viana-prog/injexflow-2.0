@@ -1,0 +1,1 @@
+# Simple initialization for the config module
